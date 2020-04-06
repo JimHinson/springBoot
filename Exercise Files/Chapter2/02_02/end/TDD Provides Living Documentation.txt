@@ -1,0 +1,21 @@
+TDD Provides Living Documentation
+Spring Controllers
+Spring Services
+Spring Data Access
+MySQL Database
+
+
+Plan for testing service components
+We're adding the first test for this application
+
+Add Contacts
+    Add contact occasions
+
+Start testing Service Components
+What are the high priority tests?
+    Happy Path
+
+JUNit setup
+* no load @Controllers
+* Only load @service and dependencies
+    
